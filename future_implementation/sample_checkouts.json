@@ -1,0 +1,9 @@
+{
+	{
+		"id": 1,
+		"book_id": 1,
+		"user_name": "john_doe",
+		"checkout_date": "2025-08-19T17:21:00Z",
+		"due_date": "2025-09-02T17:21:00Z"
+	}
+}

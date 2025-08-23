@@ -1,0 +1,18 @@
+{
+	{
+		"id": 1,
+		"title": "Moby Dick",
+		"author": "Herman Melville",
+		"year": 1851,
+		"total_copies": 2,
+		"copies_available": 1
+	},
+	{
+		"id": 2,
+		"title": "Twenty Thousand Leagues Under the Seas",
+		"author": "Jules Verne",
+		"year": 1870,
+		"total_copies": 1,
+		"copies_available": 1
+	}
+}

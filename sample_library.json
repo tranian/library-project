@@ -1,0 +1,22 @@
+{
+	{
+		"id": 1,
+		"title": "Moby Dick",
+		"author": "Herman Melville",
+		"year": 1851,
+		"is_available": false,
+		"checked_out_to": "john_doe",
+		"checkout_date": "2025-08-19T17:21:00Z",
+        "due_date": "2025-09-02T17:21:00Z"
+	},
+	{
+		"id": 2,
+		"title": "Twenty Thousand Leagues Under the Seas",
+		"author": "Jules Verne",
+		"year": 1870,
+		"is_available": true,
+		"checked_out_to": "",
+		"checkout_date": "",
+		"due_date": ""
+	}
+}
